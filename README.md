@@ -2,7 +2,7 @@
 
 Kiddions ModMenu is a free and powerful menu for GTA 5 that allows players to easily manage the game, use cheats, and gain advantages. Thanks to its simple interface and extensive features, Kiddions is one of the most popular cheat tools for GTA 5.
 
-[![Download Kiddions ModMenu](https://img.shields.io/badge/Download-Kiddions_ModMenu-blueviolet)](#)
+[![Download Kiddions ModMenu](https://img.shields.io/badge/Download-Kiddions_ModMenu-blueviolet)]()
 
 ---
 
@@ -62,11 +62,7 @@ Kiddions ModMenu is a free and powerful menu for GTA 5 that allows players to ea
 ![image](https://github.com/user-attachments/assets/e5561ec5-509f-4c28-a4d3-70bd54112781)
 *Simple and intuitive interface.*
 
-**2. Cheating Features**  
-![Uploading image.png…]()
-*Unlimited money, spawn items, and other cheats.*
-
-**3. Spawn Vehicles and Objects**  
+**2. Spawn Vehicles and Objects**  
 ![image](https://github.com/user-attachments/assets/ccc0b7cc-a0f1-40bd-a4c7-bcc2d0f5ce9b)
 
 *Easily spawn any vehicle or object.*
